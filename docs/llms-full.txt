@@ -1,0 +1,21 @@
+# Tajikistan Administrative Divisions — Full Reference
+
+> Last updated: 2026-06-22. License: CC-BY-4.0.
+
+## Per-Province Data Files
+
+- [Dushanbe](https://github.com/open-admin-data/tajikistan-administrative-divisions/blob/main/docs/llms-full/dushanbe-tjk001.txt) — 4 districts
+- [Sughd](https://github.com/open-admin-data/tajikistan-administrative-divisions/blob/main/docs/llms-full/sughd-tjk002.txt) — 22 districts
+- [Khatlon](https://github.com/open-admin-data/tajikistan-administrative-divisions/blob/main/docs/llms-full/khatlon-tjk003.txt) — 27 districts
+- [Districts of Republican Subordination](https://github.com/open-admin-data/tajikistan-administrative-divisions/blob/main/docs/llms-full/districts-of-republican-subordination-tjk004.txt) — 15 districts
+- [Gorno-Badakhshan](https://github.com/open-admin-data/tajikistan-administrative-divisions/blob/main/docs/llms-full/gorno-badakhshan-tjk005.txt) — 8 districts
+
+## Summary
+
+| Province | Districts | 
+|---|---|
+| Dushanbe | 4 | 
+| Sughd | 22 | 
+| Khatlon | 27 | 
+| Districts of Republican Subordination | 15 | 
+| Gorno-Badakhshan | 8 | 

@@ -1,0 +1,45 @@
+{
+  "id": "TJK002D019",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Панҷакент",
+    "en": "Panjakent",
+    "slug": "panjakent-tjk002d019"
+  },
+  "code": {
+    "id": "TJK002D019",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK002",
+    "level": 1,
+    "name": {
+      "local": "Суғд",
+      "en": "Sughd",
+      "slug": "sughd-tjk002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK002",
+      "level": 1,
+      "name": {
+        "local": "Суғд",
+        "en": "Sughd",
+        "slug": "sughd-tjk002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.35",
+    "lon": "67.769"
+  },
+  "metadata": {},
+  "source": {}
+}

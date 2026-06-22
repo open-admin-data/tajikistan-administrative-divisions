@@ -1,0 +1,119 @@
+# Sughd — Tajikistan Administrative Divisions
+
+> 22 districts
+> Code: TJK002
+> Coordinates: 39.936, 69.413
+> Last updated: 2026-06-22. License: CC-BY-4.0.
+
+## Districts
+
+### Айнӣ (Aini)
+
+Code: TJK002D001, Coordinates: 39.211, 68.703
+
+
+### Ашт (Asht)
+
+Code: TJK002D002, Coordinates: 40.733, 70.394
+
+
+### Б.Ғафуров (B. Gafurov)
+
+Code: TJK002D013, Coordinates: 40.377, 69.747
+
+
+### Бустон (Buston)
+
+Code: TJK002D022, Coordinates: 40.35, 69.7
+
+
+### Деваштич (Devashtich)
+
+Code: TJK002D003, Coordinates: 39.35, 67.769
+
+
+### Гулистон (Guliston)
+
+Code: TJK002D017, Coordinates: 40.517, 68.667
+
+
+### Исфара (Isfara)
+
+Code: TJK002D005, Coordinates: 40.1, 70.634
+
+
+### Исфара (Isfara)
+
+Code: TJK002D016, Coordinates: 40.1, 70.634
+
+
+### Истаравшан (Istaravshan)
+
+Code: TJK002D012, Coordinates: 39.988, 69.008
+
+
+### Истаравшан (Istaravshan)
+
+Code: TJK002D021, Coordinates: 39.988, 69.008
+
+
+### Истиклол (Istiklol)
+
+Code: TJK002D020, Coordinates: 40.533, 69.633
+
+
+### Ҷ.Расулов (Jabar - Rasulov)
+
+Code: TJK002D011, Coordinates: 40.035, 69.506
+
+
+### Хуҷанд (Khujand)
+
+Code: TJK002D015, Coordinates: 40.283, 69.622
+
+
+### Конибодом (Konibodom)
+
+Code: TJK002D006, Coordinates: 40.225, 70.312
+
+
+### Конибодом (Konibodom)
+
+Code: TJK002D018, Coordinates: 40.225, 70.312
+
+
+### Кӯҳистони Мастчоҳ (Kuhistani Mastchoh)
+
+Code: TJK002D007, Coordinates: 39.49, 69.962
+
+
+### Мастчоҳ (Matcha)
+
+Code: TJK002D008, Coordinates: 40.541, 69.47
+
+
+### Панҷакент (Panjakent)
+
+Code: TJK002D010, Coordinates: 39.35, 67.769
+
+
+### Панҷакент (Panjakent)
+
+Code: TJK002D019, Coordinates: 39.35, 67.769
+
+
+### Шаҳристон (Shakhristan)
+
+Code: TJK002D014, Coordinates: 39.763, 68.767
+
+
+### Спитамен (Spitamen)
+
+Code: TJK002D009, Coordinates: 40.068, 69.352
+
+
+### Зафаробод (Zafarabad)
+
+Code: TJK002D004, Coordinates: 40.167, 68.979
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "TJK005D003",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Дарвоз",
+    "en": "Darvoz",
+    "slug": "darvoz-tjk005d003"
+  },
+  "code": {
+    "id": "TJK005D003",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK005",
+    "level": 1,
+    "name": {
+      "local": "Мухтори Кӯҳистони Бадахшон",
+      "en": "Gorno-Badakhshan",
+      "slug": "gorno-badakhshan-tjk005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK005",
+      "level": 1,
+      "name": {
+        "local": "Мухтори Кӯҳистони Бадахшон",
+        "en": "Gorno-Badakhshan",
+        "slug": "gorno-badakhshan-tjk005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.405",
+    "lon": "70.744"
+  },
+  "metadata": {},
+  "source": {}
+}

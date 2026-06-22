@@ -1,0 +1,1217 @@
+[
+  {
+    "id": "TJK003D024",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Балҷувон",
+      "en": "Baljuvon",
+      "slug": "baljuvon-tjk003d024"
+    },
+    "code": {
+      "id": "TJK003D024",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.494",
+      "lon": "69.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D007",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ч. Балхи",
+      "en": "Balkhi",
+      "slug": "balkhi-tjk003d007"
+    },
+    "code": {
+      "id": "TJK003D007",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.557",
+      "lon": "68.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D008",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Бохтар",
+      "en": "Bokhtar",
+      "slug": "bokhtar-tjk003d008"
+    },
+    "code": {
+      "id": "TJK003D008",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.76",
+      "lon": "68.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D011",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Чайхун",
+      "en": "Chaikhun",
+      "slug": "chaikhun-tjk003d011"
+    },
+    "code": {
+      "id": "TJK003D011",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.299",
+      "lon": "68.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D003",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Данғара",
+      "en": "Dangara",
+      "slug": "dangara-tjk003d003"
+    },
+    "code": {
+      "id": "TJK003D003",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.015",
+      "lon": "69.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D004",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Дусти",
+      "en": "Dusti",
+      "slug": "dusti-tjk003d004"
+    },
+    "code": {
+      "id": "TJK003D004",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.382",
+      "lon": "68.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D014",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Фархор",
+      "en": "Farkhor",
+      "slug": "farkhor-tjk003d014"
+    },
+    "code": {
+      "id": "TJK003D014",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.465",
+      "lon": "69.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D013",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "М.С.А.Ҳамадонӣ",
+      "en": "Hamadoni",
+      "slug": "hamadoni-tjk003d013"
+    },
+    "code": {
+      "id": "TJK003D013",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.643",
+      "lon": "69.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D009",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "А.Ҷомӣ",
+      "en": "Jami A.",
+      "slug": "jami-a-tjk003d009"
+    },
+    "code": {
+      "id": "TJK003D009",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.04",
+      "lon": "68.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D006",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Қубодиён",
+      "en": "Kabodiyon",
+      "slug": "kabodiyon-tjk003d006"
+    },
+    "code": {
+      "id": "TJK003D006",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.385",
+      "lon": "68.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D018",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ховалинг",
+      "en": "Khovaling",
+      "slug": "khovaling-tjk003d018"
+    },
+    "code": {
+      "id": "TJK003D018",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.332",
+      "lon": "70.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D005",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Хуросон",
+      "en": "Khuroson",
+      "slug": "khuroson-tjk003d005"
+    },
+    "code": {
+      "id": "TJK003D005",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.072",
+      "lon": "68.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D010",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Кӯлоб",
+      "en": "Kulob",
+      "slug": "kulob-tjk003d010"
+    },
+    "code": {
+      "id": "TJK003D010",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.986",
+      "lon": "69.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D027",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Кӯлоб",
+      "en": "Kulob",
+      "slug": "kulob-tjk003d027"
+    },
+    "code": {
+      "id": "TJK003D027",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.986",
+      "lon": "69.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D012",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Мӯъминобод",
+      "en": "Muminabad",
+      "slug": "muminabad-tjk003d012"
+    },
+    "code": {
+      "id": "TJK003D012",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.169",
+      "lon": "70.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D023",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Н. Хусрав",
+      "en": "N. Khusraw",
+      "slug": "n-khusraw-tjk003d023"
+    },
+    "code": {
+      "id": "TJK003D023",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.215",
+      "lon": "67.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D022",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Норак",
+      "en": "Norak",
+      "slug": "norak-tjk003d022"
+    },
+    "code": {
+      "id": "TJK003D022",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.343",
+      "lon": "69.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D015",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Панҷ",
+      "en": "Panj",
+      "slug": "panj-tjk003d015"
+    },
+    "code": {
+      "id": "TJK003D015",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.261",
+      "lon": "69.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D025",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Қӯрғонтеппа",
+      "en": "Qurghonteppa",
+      "slug": "qurghonteppa-tjk003d025"
+    },
+    "code": {
+      "id": "TJK003D025",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.76",
+      "lon": "68.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D016",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Сарбанд",
+      "en": "Sarband",
+      "slug": "sarband-tjk003d016"
+    },
+    "code": {
+      "id": "TJK003D016",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.88",
+      "lon": "69.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D026",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Сарбанд",
+      "en": "Sarband",
+      "slug": "sarband-tjk003d026"
+    },
+    "code": {
+      "id": "TJK003D026",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.88",
+      "lon": "69.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D019",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Шаҳртуз",
+      "en": "Shaartuz",
+      "slug": "shaartuz-tjk003d019"
+    },
+    "code": {
+      "id": "TJK003D019",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.474",
+      "lon": "68.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D020",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Шамсиддини Шохин",
+      "en": "Shohin",
+      "slug": "shohin-tjk003d020"
+    },
+    "code": {
+      "id": "TJK003D020",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.945",
+      "lon": "69.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D017",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Темурмалик",
+      "en": "Temurmalik",
+      "slug": "temurmalik-tjk003d017"
+    },
+    "code": {
+      "id": "TJK003D017",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.123",
+      "lon": "69.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D001",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Вахш",
+      "en": "Vakhsh",
+      "slug": "vakhsh-tjk003d001"
+    },
+    "code": {
+      "id": "TJK003D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.716",
+      "lon": "68.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D002",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Восеъ",
+      "en": "Vose",
+      "slug": "vose-tjk003d002"
+    },
+    "code": {
+      "id": "TJK003D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.945",
+      "lon": "69.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK003D021",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ёвон",
+      "en": "Yavon",
+      "slug": "yavon-tjk003d021"
+    },
+    "code": {
+      "id": "TJK003D021",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK003",
+        "level": 1,
+        "name": {
+          "local": "Хатлон",
+          "en": "Khatlon",
+          "slug": "khatlon-tjk003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.181",
+      "lon": "68.944"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

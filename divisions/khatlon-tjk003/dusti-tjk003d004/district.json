@@ -1,0 +1,45 @@
+{
+  "id": "TJK003D004",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Дусти",
+    "en": "Dusti",
+    "slug": "dusti-tjk003d004"
+  },
+  "code": {
+    "id": "TJK003D004",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK003",
+    "level": 1,
+    "name": {
+      "local": "Хатлон",
+      "en": "Khatlon",
+      "slug": "khatlon-tjk003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.382",
+    "lon": "68.474"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "TJK004D014",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Файзобод",
+    "en": "Faizabad",
+    "slug": "faizabad-tjk004d014"
+  },
+  "code": {
+    "id": "TJK004D014",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK004",
+    "level": 1,
+    "name": {
+      "local": "Ноҳияҳои тобеи ҷумҳурӣ",
+      "en": "Districts of Republican Subordination",
+      "slug": "districts-of-republican-subordination-tjk004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK004",
+      "level": 1,
+      "name": {
+        "local": "Ноҳияҳои тобеи ҷумҳурӣ",
+        "en": "Districts of Republican Subordination",
+        "slug": "districts-of-republican-subordination-tjk004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.499",
+    "lon": "69.363"
+  },
+  "metadata": {},
+  "source": {}
+}

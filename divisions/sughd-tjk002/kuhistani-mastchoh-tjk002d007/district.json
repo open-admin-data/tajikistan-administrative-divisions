@@ -1,0 +1,45 @@
+{
+  "id": "TJK002D007",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Кӯҳистони Мастчоҳ",
+    "en": "Kuhistani Mastchoh",
+    "slug": "kuhistani-mastchoh-tjk002d007"
+  },
+  "code": {
+    "id": "TJK002D007",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK002",
+    "level": 1,
+    "name": {
+      "local": "Суғд",
+      "en": "Sughd",
+      "slug": "sughd-tjk002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK002",
+      "level": 1,
+      "name": {
+        "local": "Суғд",
+        "en": "Sughd",
+        "slug": "sughd-tjk002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.49",
+    "lon": "69.962"
+  },
+  "metadata": {},
+  "source": {}
+}

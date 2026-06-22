@@ -1,0 +1,45 @@
+{
+  "id": "TJK002D014",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Шаҳристон",
+    "en": "Shakhristan",
+    "slug": "shakhristan-tjk002d014"
+  },
+  "code": {
+    "id": "TJK002D014",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK002",
+    "level": 1,
+    "name": {
+      "local": "Суғд",
+      "en": "Sughd",
+      "slug": "sughd-tjk002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK002",
+      "level": 1,
+      "name": {
+        "local": "Суғд",
+        "en": "Sughd",
+        "slug": "sughd-tjk002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.763",
+    "lon": "68.767"
+  },
+  "metadata": {},
+  "source": {}
+}

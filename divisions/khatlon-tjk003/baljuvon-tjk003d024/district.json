@@ -1,0 +1,45 @@
+{
+  "id": "TJK003D024",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Балҷувон",
+    "en": "Baljuvon",
+    "slug": "baljuvon-tjk003d024"
+  },
+  "code": {
+    "id": "TJK003D024",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK003",
+    "level": 1,
+    "name": {
+      "local": "Хатлон",
+      "en": "Khatlon",
+      "slug": "khatlon-tjk003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.494",
+    "lon": "69.785"
+  },
+  "metadata": {},
+  "source": {}
+}

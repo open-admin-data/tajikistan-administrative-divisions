@@ -1,0 +1,45 @@
+{
+  "id": "TJK002D001",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Айнӣ",
+    "en": "Aini",
+    "slug": "aini-tjk002d001"
+  },
+  "code": {
+    "id": "TJK002D001",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK002",
+    "level": 1,
+    "name": {
+      "local": "Суғд",
+      "en": "Sughd",
+      "slug": "sughd-tjk002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK002",
+      "level": 1,
+      "name": {
+        "local": "Суғд",
+        "en": "Sughd",
+        "slug": "sughd-tjk002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.211",
+    "lon": "68.703"
+  },
+  "metadata": {},
+  "source": {}
+}

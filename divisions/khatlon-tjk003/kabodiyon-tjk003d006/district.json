@@ -1,0 +1,45 @@
+{
+  "id": "TJK003D006",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Қубодиён",
+    "en": "Kabodiyon",
+    "slug": "kabodiyon-tjk003d006"
+  },
+  "code": {
+    "id": "TJK003D006",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK003",
+    "level": 1,
+    "name": {
+      "local": "Хатлон",
+      "en": "Khatlon",
+      "slug": "khatlon-tjk003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.385",
+    "lon": "68.24"
+  },
+  "metadata": {},
+  "source": {}
+}

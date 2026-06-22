@@ -1,0 +1,45 @@
+{
+  "id": "TJK002D009",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Спитамен",
+    "en": "Spitamen",
+    "slug": "spitamen-tjk002d009"
+  },
+  "code": {
+    "id": "TJK002D009",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK002",
+    "level": 1,
+    "name": {
+      "local": "Суғд",
+      "en": "Sughd",
+      "slug": "sughd-tjk002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK002",
+      "level": 1,
+      "name": {
+        "local": "Суғд",
+        "en": "Sughd",
+        "slug": "sughd-tjk002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.068",
+    "lon": "69.352"
+  },
+  "metadata": {},
+  "source": {}
+}

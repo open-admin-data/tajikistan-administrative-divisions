@@ -1,0 +1,45 @@
+{
+  "id": "TJK003D019",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Шаҳртуз",
+    "en": "Shaartuz",
+    "slug": "shaartuz-tjk003d019"
+  },
+  "code": {
+    "id": "TJK003D019",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK003",
+    "level": 1,
+    "name": {
+      "local": "Хатлон",
+      "en": "Khatlon",
+      "slug": "khatlon-tjk003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.474",
+    "lon": "68.098"
+  },
+  "metadata": {},
+  "source": {}
+}

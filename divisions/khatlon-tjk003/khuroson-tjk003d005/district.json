@@ -1,0 +1,45 @@
+{
+  "id": "TJK003D005",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Хуросон",
+    "en": "Khuroson",
+    "slug": "khuroson-tjk003d005"
+  },
+  "code": {
+    "id": "TJK003D005",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK003",
+    "level": 1,
+    "name": {
+      "local": "Хатлон",
+      "en": "Khatlon",
+      "slug": "khatlon-tjk003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.072",
+    "lon": "68.68"
+  },
+  "metadata": {},
+  "source": {}
+}

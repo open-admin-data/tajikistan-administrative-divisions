@@ -1,0 +1,29 @@
+# Dushanbe — Tajikistan Administrative Divisions
+
+> 4 districts
+> Code: TJK001
+> Coordinates: 38.564, 68.802
+> Last updated: 2026-06-22. License: CC-BY-4.0.
+
+## Districts
+
+### Абӯалӣ Ибни Сино (Avicenna)
+
+Code: TJK001D003, Coordinates: 38.545, 68.81
+
+
+### Фирдавсӣ (Ferdowsi)
+
+Code: TJK001D004, Coordinates: 38.535, 68.77
+
+
+### Исмоили Сомонӣ (Ismail Samani)
+
+Code: TJK001D002, Coordinates: 38.575, 68.8
+
+
+### Шоҳмансур (Shah Mansur)
+
+Code: TJK001D001, Coordinates: 38.56, 68.774
+
+

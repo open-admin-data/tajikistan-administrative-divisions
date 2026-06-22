@@ -1,0 +1,45 @@
+{
+  "id": "TJK002D003",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Деваштич",
+    "en": "Devashtich",
+    "slug": "devashtich-tjk002d003"
+  },
+  "code": {
+    "id": "TJK002D003",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK002",
+    "level": 1,
+    "name": {
+      "local": "Суғд",
+      "en": "Sughd",
+      "slug": "sughd-tjk002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK002",
+      "level": 1,
+      "name": {
+        "local": "Суғд",
+        "en": "Sughd",
+        "slug": "sughd-tjk002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.35",
+    "lon": "67.769"
+  },
+  "metadata": {},
+  "source": {}
+}

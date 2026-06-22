@@ -1,0 +1,45 @@
+{
+  "id": "TJK001D004",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Фирдавсӣ",
+    "en": "Ferdowsi",
+    "slug": "ferdowsi-tjk001d004"
+  },
+  "code": {
+    "id": "TJK001D004",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK001",
+    "level": 1,
+    "name": {
+      "local": "Душанбе",
+      "en": "Dushanbe",
+      "slug": "dushanbe-tjk001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK001",
+      "level": 1,
+      "name": {
+        "local": "Душанбе",
+        "en": "Dushanbe",
+        "slug": "dushanbe-tjk001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.535",
+    "lon": "68.77"
+  },
+  "metadata": {},
+  "source": {}
+}

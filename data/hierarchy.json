@@ -1,0 +1,987 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/tj/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/tajikistan-administrative-divisions",
+  "data": [
+    {
+      "id": "TJK001",
+      "name": {
+        "local": "Душанбе",
+        "en": "Dushanbe",
+        "slug": "dushanbe-tjk001"
+      },
+      "code": {
+        "id": "TJK001",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "TJK001D001",
+          "name": {
+            "local": "Шоҳмансур",
+            "en": "Shah Mansur",
+            "slug": "shah-mansur-tjk001d001"
+          },
+          "code": {
+            "id": "TJK001D001",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK001D002",
+          "name": {
+            "local": "Исмоили Сомонӣ",
+            "en": "Ismail Samani",
+            "slug": "ismail-samani-tjk001d002"
+          },
+          "code": {
+            "id": "TJK001D002",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK001D003",
+          "name": {
+            "local": "Абӯалӣ Ибни Сино",
+            "en": "Avicenna",
+            "slug": "avicenna-tjk001d003"
+          },
+          "code": {
+            "id": "TJK001D003",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK001D004",
+          "name": {
+            "local": "Фирдавсӣ",
+            "en": "Ferdowsi",
+            "slug": "ferdowsi-tjk001d004"
+          },
+          "code": {
+            "id": "TJK001D004",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "TJK002",
+      "name": {
+        "local": "Суғд",
+        "en": "Sughd",
+        "slug": "sughd-tjk002"
+      },
+      "code": {
+        "id": "TJK002",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "TJK002D001",
+          "name": {
+            "local": "Айнӣ",
+            "en": "Aini",
+            "slug": "aini-tjk002d001"
+          },
+          "code": {
+            "id": "TJK002D001",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK002D002",
+          "name": {
+            "local": "Ашт",
+            "en": "Asht",
+            "slug": "asht-tjk002d002"
+          },
+          "code": {
+            "id": "TJK002D002",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK002D003",
+          "name": {
+            "local": "Деваштич",
+            "en": "Devashtich",
+            "slug": "devashtich-tjk002d003"
+          },
+          "code": {
+            "id": "TJK002D003",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK002D004",
+          "name": {
+            "local": "Зафаробод",
+            "en": "Zafarabad",
+            "slug": "zafarabad-tjk002d004"
+          },
+          "code": {
+            "id": "TJK002D004",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK002D005",
+          "name": {
+            "local": "Исфара",
+            "en": "Isfara",
+            "slug": "isfara-tjk002d005"
+          },
+          "code": {
+            "id": "TJK002D005",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK002D006",
+          "name": {
+            "local": "Конибодом",
+            "en": "Konibodom",
+            "slug": "konibodom-tjk002d006"
+          },
+          "code": {
+            "id": "TJK002D006",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK002D007",
+          "name": {
+            "local": "Кӯҳистони Мастчоҳ",
+            "en": "Kuhistani Mastchoh",
+            "slug": "kuhistani-mastchoh-tjk002d007"
+          },
+          "code": {
+            "id": "TJK002D007",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK002D008",
+          "name": {
+            "local": "Мастчоҳ",
+            "en": "Matcha",
+            "slug": "matcha-tjk002d008"
+          },
+          "code": {
+            "id": "TJK002D008",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK002D009",
+          "name": {
+            "local": "Спитамен",
+            "en": "Spitamen",
+            "slug": "spitamen-tjk002d009"
+          },
+          "code": {
+            "id": "TJK002D009",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK002D010",
+          "name": {
+            "local": "Панҷакент",
+            "en": "Panjakent",
+            "slug": "panjakent-tjk002d010"
+          },
+          "code": {
+            "id": "TJK002D010",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK002D011",
+          "name": {
+            "local": "Ҷ.Расулов",
+            "en": "Jabar - Rasulov",
+            "slug": "jabar-rasulov-tjk002d011"
+          },
+          "code": {
+            "id": "TJK002D011",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK002D012",
+          "name": {
+            "local": "Истаравшан",
+            "en": "Istaravshan",
+            "slug": "istaravshan-tjk002d012"
+          },
+          "code": {
+            "id": "TJK002D012",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK002D013",
+          "name": {
+            "local": "Б.Ғафуров",
+            "en": "B. Gafurov",
+            "slug": "b-gafurov-tjk002d013"
+          },
+          "code": {
+            "id": "TJK002D013",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK002D014",
+          "name": {
+            "local": "Шаҳристон",
+            "en": "Shakhristan",
+            "slug": "shakhristan-tjk002d014"
+          },
+          "code": {
+            "id": "TJK002D014",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK002D015",
+          "name": {
+            "local": "Хуҷанд",
+            "en": "Khujand",
+            "slug": "khujand-tjk002d015"
+          },
+          "code": {
+            "id": "TJK002D015",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK002D016",
+          "name": {
+            "local": "Исфара",
+            "en": "Isfara",
+            "slug": "isfara-tjk002d016"
+          },
+          "code": {
+            "id": "TJK002D016",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK002D017",
+          "name": {
+            "local": "Гулистон",
+            "en": "Guliston",
+            "slug": "guliston-tjk002d017"
+          },
+          "code": {
+            "id": "TJK002D017",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK002D018",
+          "name": {
+            "local": "Конибодом",
+            "en": "Konibodom",
+            "slug": "konibodom-tjk002d018"
+          },
+          "code": {
+            "id": "TJK002D018",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK002D019",
+          "name": {
+            "local": "Панҷакент",
+            "en": "Panjakent",
+            "slug": "panjakent-tjk002d019"
+          },
+          "code": {
+            "id": "TJK002D019",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK002D020",
+          "name": {
+            "local": "Истиклол",
+            "en": "Istiklol",
+            "slug": "istiklol-tjk002d020"
+          },
+          "code": {
+            "id": "TJK002D020",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK002D021",
+          "name": {
+            "local": "Истаравшан",
+            "en": "Istaravshan",
+            "slug": "istaravshan-tjk002d021"
+          },
+          "code": {
+            "id": "TJK002D021",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK002D022",
+          "name": {
+            "local": "Бустон",
+            "en": "Buston",
+            "slug": "buston-tjk002d022"
+          },
+          "code": {
+            "id": "TJK002D022",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "TJK003",
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      },
+      "code": {
+        "id": "TJK003",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "TJK003D001",
+          "name": {
+            "local": "Вахш",
+            "en": "Vakhsh",
+            "slug": "vakhsh-tjk003d001"
+          },
+          "code": {
+            "id": "TJK003D001",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D002",
+          "name": {
+            "local": "Восеъ",
+            "en": "Vose",
+            "slug": "vose-tjk003d002"
+          },
+          "code": {
+            "id": "TJK003D002",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D003",
+          "name": {
+            "local": "Данғара",
+            "en": "Dangara",
+            "slug": "dangara-tjk003d003"
+          },
+          "code": {
+            "id": "TJK003D003",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D004",
+          "name": {
+            "local": "Дусти",
+            "en": "Dusti",
+            "slug": "dusti-tjk003d004"
+          },
+          "code": {
+            "id": "TJK003D004",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D005",
+          "name": {
+            "local": "Хуросон",
+            "en": "Khuroson",
+            "slug": "khuroson-tjk003d005"
+          },
+          "code": {
+            "id": "TJK003D005",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D006",
+          "name": {
+            "local": "Қубодиён",
+            "en": "Kabodiyon",
+            "slug": "kabodiyon-tjk003d006"
+          },
+          "code": {
+            "id": "TJK003D006",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D007",
+          "name": {
+            "local": "Ч. Балхи",
+            "en": "Balkhi",
+            "slug": "balkhi-tjk003d007"
+          },
+          "code": {
+            "id": "TJK003D007",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D008",
+          "name": {
+            "local": "Бохтар",
+            "en": "Bokhtar",
+            "slug": "bokhtar-tjk003d008"
+          },
+          "code": {
+            "id": "TJK003D008",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D009",
+          "name": {
+            "local": "А.Ҷомӣ",
+            "en": "Jami A.",
+            "slug": "jami-a-tjk003d009"
+          },
+          "code": {
+            "id": "TJK003D009",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D010",
+          "name": {
+            "local": "Кӯлоб",
+            "en": "Kulob",
+            "slug": "kulob-tjk003d010"
+          },
+          "code": {
+            "id": "TJK003D010",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D011",
+          "name": {
+            "local": "Чайхун",
+            "en": "Chaikhun",
+            "slug": "chaikhun-tjk003d011"
+          },
+          "code": {
+            "id": "TJK003D011",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D012",
+          "name": {
+            "local": "Мӯъминобод",
+            "en": "Muminabad",
+            "slug": "muminabad-tjk003d012"
+          },
+          "code": {
+            "id": "TJK003D012",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D013",
+          "name": {
+            "local": "М.С.А.Ҳамадонӣ",
+            "en": "Hamadoni",
+            "slug": "hamadoni-tjk003d013"
+          },
+          "code": {
+            "id": "TJK003D013",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D014",
+          "name": {
+            "local": "Фархор",
+            "en": "Farkhor",
+            "slug": "farkhor-tjk003d014"
+          },
+          "code": {
+            "id": "TJK003D014",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D015",
+          "name": {
+            "local": "Панҷ",
+            "en": "Panj",
+            "slug": "panj-tjk003d015"
+          },
+          "code": {
+            "id": "TJK003D015",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D016",
+          "name": {
+            "local": "Сарбанд",
+            "en": "Sarband",
+            "slug": "sarband-tjk003d016"
+          },
+          "code": {
+            "id": "TJK003D016",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D017",
+          "name": {
+            "local": "Темурмалик",
+            "en": "Temurmalik",
+            "slug": "temurmalik-tjk003d017"
+          },
+          "code": {
+            "id": "TJK003D017",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D018",
+          "name": {
+            "local": "Ховалинг",
+            "en": "Khovaling",
+            "slug": "khovaling-tjk003d018"
+          },
+          "code": {
+            "id": "TJK003D018",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D019",
+          "name": {
+            "local": "Шаҳртуз",
+            "en": "Shaartuz",
+            "slug": "shaartuz-tjk003d019"
+          },
+          "code": {
+            "id": "TJK003D019",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D020",
+          "name": {
+            "local": "Шамсиддини Шохин",
+            "en": "Shohin",
+            "slug": "shohin-tjk003d020"
+          },
+          "code": {
+            "id": "TJK003D020",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D021",
+          "name": {
+            "local": "Ёвон",
+            "en": "Yavon",
+            "slug": "yavon-tjk003d021"
+          },
+          "code": {
+            "id": "TJK003D021",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D022",
+          "name": {
+            "local": "Норак",
+            "en": "Norak",
+            "slug": "norak-tjk003d022"
+          },
+          "code": {
+            "id": "TJK003D022",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D023",
+          "name": {
+            "local": "Н. Хусрав",
+            "en": "N. Khusraw",
+            "slug": "n-khusraw-tjk003d023"
+          },
+          "code": {
+            "id": "TJK003D023",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D024",
+          "name": {
+            "local": "Балҷувон",
+            "en": "Baljuvon",
+            "slug": "baljuvon-tjk003d024"
+          },
+          "code": {
+            "id": "TJK003D024",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D025",
+          "name": {
+            "local": "Қӯрғонтеппа",
+            "en": "Qurghonteppa",
+            "slug": "qurghonteppa-tjk003d025"
+          },
+          "code": {
+            "id": "TJK003D025",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D026",
+          "name": {
+            "local": "Сарбанд",
+            "en": "Sarband",
+            "slug": "sarband-tjk003d026"
+          },
+          "code": {
+            "id": "TJK003D026",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK003D027",
+          "name": {
+            "local": "Кӯлоб",
+            "en": "Kulob",
+            "slug": "kulob-tjk003d027"
+          },
+          "code": {
+            "id": "TJK003D027",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "TJK004",
+      "name": {
+        "local": "Ноҳияҳои тобеи ҷумҳурӣ",
+        "en": "Districts of Republican Subordination",
+        "slug": "districts-of-republican-subordination-tjk004"
+      },
+      "code": {
+        "id": "TJK004",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "TJK004D001",
+          "name": {
+            "local": "Вахдат",
+            "en": "Vahdat",
+            "slug": "vahdat-tjk004d001"
+          },
+          "code": {
+            "id": "TJK004D001",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK004D002",
+          "name": {
+            "local": "Турсунзода",
+            "en": "Tursunzade",
+            "slug": "tursunzade-tjk004d002"
+          },
+          "code": {
+            "id": "TJK004D002",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK004D003",
+          "name": {
+            "local": "Варзоб",
+            "en": "Varzob",
+            "slug": "varzob-tjk004d003"
+          },
+          "code": {
+            "id": "TJK004D003",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK004D004",
+          "name": {
+            "local": "Рашт",
+            "en": "Rasht",
+            "slug": "rasht-tjk004d004"
+          },
+          "code": {
+            "id": "TJK004D004",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK004D005",
+          "name": {
+            "local": "Ҳисор",
+            "en": "Hissar",
+            "slug": "hissar-tjk004d005"
+          },
+          "code": {
+            "id": "TJK004D005",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK004D006",
+          "name": {
+            "local": "Ляхш",
+            "en": "Lyakhsh",
+            "slug": "lyakhsh-tjk004d006"
+          },
+          "code": {
+            "id": "TJK004D006",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK004D007",
+          "name": {
+            "local": "Нуробод",
+            "en": "Nurabad",
+            "slug": "nurabad-tjk004d007"
+          },
+          "code": {
+            "id": "TJK004D007",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK004D008",
+          "name": {
+            "local": "Рӯдакӣ",
+            "en": "Rudaki",
+            "slug": "rudaki-tjk004d008"
+          },
+          "code": {
+            "id": "TJK004D008",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK004D009",
+          "name": {
+            "local": "Вахдат",
+            "en": "Vahdat",
+            "slug": "vahdat-tjk004d009"
+          },
+          "code": {
+            "id": "TJK004D009",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK004D010",
+          "name": {
+            "local": "Роғун",
+            "en": "Roghun",
+            "slug": "roghun-tjk004d010"
+          },
+          "code": {
+            "id": "TJK004D010",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK004D011",
+          "name": {
+            "local": "Сангвор",
+            "en": "Sangvor",
+            "slug": "sangvor-tjk004d011"
+          },
+          "code": {
+            "id": "TJK004D011",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK004D012",
+          "name": {
+            "local": "Тоҷикобод",
+            "en": "Tajikabad",
+            "slug": "tajikabad-tjk004d012"
+          },
+          "code": {
+            "id": "TJK004D012",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK004D013",
+          "name": {
+            "local": "Турсунзода",
+            "en": "Tursunzade",
+            "slug": "tursunzade-tjk004d013"
+          },
+          "code": {
+            "id": "TJK004D013",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK004D014",
+          "name": {
+            "local": "Файзобод",
+            "en": "Faizabad",
+            "slug": "faizabad-tjk004d014"
+          },
+          "code": {
+            "id": "TJK004D014",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK004D015",
+          "name": {
+            "local": "Шаҳринав",
+            "en": "Shakhrinav",
+            "slug": "shakhrinav-tjk004d015"
+          },
+          "code": {
+            "id": "TJK004D015",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "TJK005",
+      "name": {
+        "local": "Мухтори Кӯҳистони Бадахшон",
+        "en": "Gorno-Badakhshan",
+        "slug": "gorno-badakhshan-tjk005"
+      },
+      "code": {
+        "id": "TJK005",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "TJK005D001",
+          "name": {
+            "local": "Ванҷ",
+            "en": "Vanj",
+            "slug": "vanj-tjk005d001"
+          },
+          "code": {
+            "id": "TJK005D001",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK005D002",
+          "name": {
+            "local": "Ишкошим",
+            "en": "Ishkashim",
+            "slug": "ishkashim-tjk005d002"
+          },
+          "code": {
+            "id": "TJK005D002",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK005D003",
+          "name": {
+            "local": "Дарвоз",
+            "en": "Darvoz",
+            "slug": "darvoz-tjk005d003"
+          },
+          "code": {
+            "id": "TJK005D003",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK005D004",
+          "name": {
+            "local": "Мурғоб",
+            "en": "Murghab",
+            "slug": "murghab-tjk005d004"
+          },
+          "code": {
+            "id": "TJK005D004",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK005D005",
+          "name": {
+            "local": "Роштқалъа",
+            "en": "Roshtqala",
+            "slug": "roshtqala-tjk005d005"
+          },
+          "code": {
+            "id": "TJK005D005",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK005D006",
+          "name": {
+            "local": "Рӯшон",
+            "en": "Rushan",
+            "slug": "rushan-tjk005d006"
+          },
+          "code": {
+            "id": "TJK005D006",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK005D007",
+          "name": {
+            "local": "Шуғнон",
+            "en": "Shugnan",
+            "slug": "shugnan-tjk005d007"
+          },
+          "code": {
+            "id": "TJK005D007",
+            "iso": null
+          }
+        },
+        {
+          "id": "TJK005D008",
+          "name": {
+            "local": "Хоруғ",
+            "en": "Khorugh",
+            "slug": "khorugh-tjk005d008"
+          },
+          "code": {
+            "id": "TJK005D008",
+            "iso": null
+          }
+        }
+      ]
+    }
+  ]
+}

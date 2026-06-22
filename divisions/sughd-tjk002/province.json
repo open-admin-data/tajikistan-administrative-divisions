@@ -1,0 +1,33 @@
+{
+  "id": "TJK002",
+  "level": 1,
+  "level_name": {
+    "local": "Вилоят",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Суғд",
+    "en": "Sughd",
+    "slug": "sughd-tjk002"
+  },
+  "code": {
+    "id": "TJK002",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.936",
+    "lon": "69.413"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/tj/provinces/sughd-tjk002/",
+    "api": "https://openadmindata.org/api/tj/"
+  }
+}

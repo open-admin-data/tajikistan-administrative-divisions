@@ -1,0 +1,45 @@
+{
+  "id": "TJK001D003",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Абӯалӣ Ибни Сино",
+    "en": "Avicenna",
+    "slug": "avicenna-tjk001d003"
+  },
+  "code": {
+    "id": "TJK001D003",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK001",
+    "level": 1,
+    "name": {
+      "local": "Душанбе",
+      "en": "Dushanbe",
+      "slug": "dushanbe-tjk001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK001",
+      "level": 1,
+      "name": {
+        "local": "Душанбе",
+        "en": "Dushanbe",
+        "slug": "dushanbe-tjk001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.545",
+    "lon": "68.81"
+  },
+  "metadata": {},
+  "source": {}
+}

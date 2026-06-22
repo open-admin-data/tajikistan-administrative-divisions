@@ -1,0 +1,45 @@
+{
+  "id": "TJK004D002",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Турсунзода",
+    "en": "Tursunzade",
+    "slug": "tursunzade-tjk004d002"
+  },
+  "code": {
+    "id": "TJK004D002",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK004",
+    "level": 1,
+    "name": {
+      "local": "Ноҳияҳои тобеи ҷумҳурӣ",
+      "en": "Districts of Republican Subordination",
+      "slug": "districts-of-republican-subordination-tjk004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK004",
+      "level": 1,
+      "name": {
+        "local": "Ноҳияҳои тобеи ҷумҳурӣ",
+        "en": "Districts of Republican Subordination",
+        "slug": "districts-of-republican-subordination-tjk004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.558",
+    "lon": "68.188"
+  },
+  "metadata": {},
+  "source": {}
+}

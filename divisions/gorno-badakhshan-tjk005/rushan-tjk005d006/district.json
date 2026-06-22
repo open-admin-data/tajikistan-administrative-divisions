@@ -1,0 +1,45 @@
+{
+  "id": "TJK005D006",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Рӯшон",
+    "en": "Rushan",
+    "slug": "rushan-tjk005d006"
+  },
+  "code": {
+    "id": "TJK005D006",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK005",
+    "level": 1,
+    "name": {
+      "local": "Мухтори Кӯҳистони Бадахшон",
+      "en": "Gorno-Badakhshan",
+      "slug": "gorno-badakhshan-tjk005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK005",
+      "level": 1,
+      "name": {
+        "local": "Мухтори Кӯҳистони Бадахшон",
+        "en": "Gorno-Badakhshan",
+        "slug": "gorno-badakhshan-tjk005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.052",
+    "lon": "71.79"
+  },
+  "metadata": {},
+  "source": {}
+}

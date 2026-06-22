@@ -1,0 +1,45 @@
+{
+  "id": "TJK003D009",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "А.Ҷомӣ",
+    "en": "Jami A.",
+    "slug": "jami-a-tjk003d009"
+  },
+  "code": {
+    "id": "TJK003D009",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK003",
+    "level": 1,
+    "name": {
+      "local": "Хатлон",
+      "en": "Khatlon",
+      "slug": "khatlon-tjk003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.04",
+    "lon": "68.86"
+  },
+  "metadata": {},
+  "source": {}
+}

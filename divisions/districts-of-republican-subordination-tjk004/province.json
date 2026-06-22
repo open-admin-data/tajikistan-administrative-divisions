@@ -1,0 +1,33 @@
+{
+  "id": "TJK004",
+  "level": 1,
+  "level_name": {
+    "local": "Вилоят",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Ноҳияҳои тобеи ҷумҳурӣ",
+    "en": "Districts of Republican Subordination",
+    "slug": "districts-of-republican-subordination-tjk004"
+  },
+  "code": {
+    "id": "TJK004",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.789",
+    "lon": "69.884"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/tj/provinces/districts-of-republican-subordination-tjk004/",
+    "api": "https://openadmindata.org/api/tj/"
+  }
+}

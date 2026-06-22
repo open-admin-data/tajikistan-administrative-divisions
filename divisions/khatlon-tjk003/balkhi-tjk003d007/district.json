@@ -1,0 +1,45 @@
+{
+  "id": "TJK003D007",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ч. Балхи",
+    "en": "Balkhi",
+    "slug": "balkhi-tjk003d007"
+  },
+  "code": {
+    "id": "TJK003D007",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK003",
+    "level": 1,
+    "name": {
+      "local": "Хатлон",
+      "en": "Khatlon",
+      "slug": "khatlon-tjk003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.557",
+    "lon": "68.781"
+  },
+  "metadata": {},
+  "source": {}
+}

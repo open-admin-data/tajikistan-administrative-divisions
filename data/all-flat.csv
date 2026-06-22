@@ -1,0 +1,7 @@
+# Data from Open Admin Data (https://openadmindata.org/tj/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/tajikistan-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.province,children_count.district,zip_codes,geo.lat,geo.lon,source_url
+TJK001,1,Вилоят,Province,Душанбе,Dushanbe,dushanbe-tjk001,TJK001,,,,,,4,,38.564,68.802,https://openadmindata.org/tj/provinces/dushanbe-tjk001/
+TJK002,1,Вилоят,Province,Суғд,Sughd,sughd-tjk002,TJK002,,,,,,22,,39.936,69.413,https://openadmindata.org/tj/provinces/sughd-tjk002/
+TJK003,1,Вилоят,Province,Хатлон,Khatlon,khatlon-tjk003,TJK003,,,,,,27,,37.659,69.251,https://openadmindata.org/tj/provinces/khatlon-tjk003/
+TJK004,1,Вилоят,Province,Ноҳияҳои тобеи ҷумҳурӣ,Districts of Republican Subordination,districts-of-republican-subordination-tjk004,TJK004,,,,,,15,,38.789,69.884,https://openadmindata.org/tj/provinces/districts-of-republican-subordination-tjk004/
+TJK005,1,Вилоят,Province,Мухтори Кӯҳистони Бадахшон,Gorno-Badakhshan,gorno-badakhshan-tjk005,TJK005,,,,,,8,,38.064,72.849,https://openadmindata.org/tj/provinces/gorno-badakhshan-tjk005/

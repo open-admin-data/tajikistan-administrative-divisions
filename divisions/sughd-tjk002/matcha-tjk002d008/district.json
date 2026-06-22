@@ -1,0 +1,45 @@
+{
+  "id": "TJK002D008",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Мастчоҳ",
+    "en": "Matcha",
+    "slug": "matcha-tjk002d008"
+  },
+  "code": {
+    "id": "TJK002D008",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK002",
+    "level": 1,
+    "name": {
+      "local": "Суғд",
+      "en": "Sughd",
+      "slug": "sughd-tjk002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK002",
+      "level": 1,
+      "name": {
+        "local": "Суғд",
+        "en": "Sughd",
+        "slug": "sughd-tjk002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.541",
+    "lon": "69.47"
+  },
+  "metadata": {},
+  "source": {}
+}

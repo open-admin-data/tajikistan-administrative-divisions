@@ -1,0 +1,45 @@
+{
+  "id": "TJK004D008",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Рӯдакӣ",
+    "en": "Rudaki",
+    "slug": "rudaki-tjk004d008"
+  },
+  "code": {
+    "id": "TJK004D008",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK004",
+    "level": 1,
+    "name": {
+      "local": "Ноҳияҳои тобеи ҷумҳурӣ",
+      "en": "Districts of Republican Subordination",
+      "slug": "districts-of-republican-subordination-tjk004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK004",
+      "level": 1,
+      "name": {
+        "local": "Ноҳияҳои тобеи ҷумҳурӣ",
+        "en": "Districts of Republican Subordination",
+        "slug": "districts-of-republican-subordination-tjk004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.244",
+    "lon": "68.581"
+  },
+  "metadata": {},
+  "source": {}
+}

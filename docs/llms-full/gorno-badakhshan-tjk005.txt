@@ -1,0 +1,49 @@
+# Gorno-Badakhshan — Tajikistan Administrative Divisions
+
+> 8 districts
+> Code: TJK005
+> Coordinates: 38.064, 72.849
+> Last updated: 2026-06-22. License: CC-BY-4.0.
+
+## Districts
+
+### Дарвоз (Darvoz)
+
+Code: TJK005D003, Coordinates: 38.405, 70.744
+
+
+### Ишкошим (Ishkashim)
+
+Code: TJK005D002, Coordinates: 37.023, 72.114
+
+
+### Хоруғ (Khorugh)
+
+Code: TJK005D008, Coordinates: 37.529, 71.556
+
+
+### Мурғоб (Murghab)
+
+Code: TJK005D004, Coordinates: 38.206, 73.864
+
+
+### Роштқалъа (Roshtqala)
+
+Code: TJK005D005, Coordinates: 37.236, 72.119
+
+
+### Рӯшон (Rushan)
+
+Code: TJK005D006, Coordinates: 38.052, 71.79
+
+
+### Шуғнон (Shugnan)
+
+Code: TJK005D007, Coordinates: 37.581, 71.914
+
+
+### Ванҷ (Vanj)
+
+Code: TJK005D001, Coordinates: 38.379, 71.651
+
+

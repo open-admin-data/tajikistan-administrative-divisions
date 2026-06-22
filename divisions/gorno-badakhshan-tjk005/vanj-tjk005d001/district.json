@@ -1,0 +1,45 @@
+{
+  "id": "TJK005D001",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ванҷ",
+    "en": "Vanj",
+    "slug": "vanj-tjk005d001"
+  },
+  "code": {
+    "id": "TJK005D001",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK005",
+    "level": 1,
+    "name": {
+      "local": "Мухтори Кӯҳистони Бадахшон",
+      "en": "Gorno-Badakhshan",
+      "slug": "gorno-badakhshan-tjk005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK005",
+      "level": 1,
+      "name": {
+        "local": "Мухтори Кӯҳистони Бадахшон",
+        "en": "Gorno-Badakhshan",
+        "slug": "gorno-badakhshan-tjk005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.379",
+    "lon": "71.651"
+  },
+  "metadata": {},
+  "source": {}
+}

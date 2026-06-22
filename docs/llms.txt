@@ -1,0 +1,60 @@
+# Tajikistan Administrative Divisions
+
+> Open dataset of Tajikistan's administrative hierarchy:
+> 5 provinces, 76 districts.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total provinces: 5
+- Total districts: 76
+- Coordinates: included (all levels)
+- Last updated: 2026-06-22
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All provinces (JSON)](https://raw.githubusercontent.com/open-admin-data/tajikistan-administrative-divisions/main/data/all-province.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/tajikistan-administrative-divisions/main/data/all-district.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/tajikistan-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/tajikistan-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/tajikistan-administrative-divisions/main/data/schema.json)
+
+## Browse by Province
+
+- [Dushanbe](https://github.com/open-admin-data/tajikistan-administrative-divisions/tree/main/divisions/dushanbe-tjk001/) — 4 districts
+- [Sughd](https://github.com/open-admin-data/tajikistan-administrative-divisions/tree/main/divisions/sughd-tjk002/) — 22 districts
+- [Khatlon](https://github.com/open-admin-data/tajikistan-administrative-divisions/tree/main/divisions/khatlon-tjk003/) — 27 districts
+- [Districts of Republican Subordination](https://github.com/open-admin-data/tajikistan-administrative-divisions/tree/main/divisions/districts-of-republican-subordination-tjk004/) — 15 districts
+- [Gorno-Badakhshan](https://github.com/open-admin-data/tajikistan-administrative-divisions/tree/main/divisions/gorno-badakhshan-tjk005/) — 8 districts
+
+## Per-Province Full Data
+
+- [Dushanbe](https://raw.githubusercontent.com/open-admin-data/tajikistan-administrative-divisions/main/docs/llms-full/dushanbe-tjk001.txt)
+- [Sughd](https://raw.githubusercontent.com/open-admin-data/tajikistan-administrative-divisions/main/docs/llms-full/sughd-tjk002.txt)
+- [Khatlon](https://raw.githubusercontent.com/open-admin-data/tajikistan-administrative-divisions/main/docs/llms-full/khatlon-tjk003.txt)
+- [Districts of Republican Subordination](https://raw.githubusercontent.com/open-admin-data/tajikistan-administrative-divisions/main/docs/llms-full/districts-of-republican-subordination-tjk004.txt)
+- [Gorno-Badakhshan](https://raw.githubusercontent.com/open-admin-data/tajikistan-administrative-divisions/main/docs/llms-full/gorno-badakhshan-tjk005.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (province), 2 (district)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Tajikistan Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/tajikistan-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

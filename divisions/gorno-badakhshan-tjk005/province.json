@@ -1,0 +1,33 @@
+{
+  "id": "TJK005",
+  "level": 1,
+  "level_name": {
+    "local": "Вилоят",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Мухтори Кӯҳистони Бадахшон",
+    "en": "Gorno-Badakhshan",
+    "slug": "gorno-badakhshan-tjk005"
+  },
+  "code": {
+    "id": "TJK005",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.064",
+    "lon": "72.849"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/tj/provinces/gorno-badakhshan-tjk005/",
+    "api": "https://openadmindata.org/api/tj/"
+  }
+}

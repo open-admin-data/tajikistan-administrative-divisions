@@ -1,0 +1,45 @@
+{
+  "id": "TJK005D007",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Шуғнон",
+    "en": "Shugnan",
+    "slug": "shugnan-tjk005d007"
+  },
+  "code": {
+    "id": "TJK005D007",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK005",
+    "level": 1,
+    "name": {
+      "local": "Мухтори Кӯҳистони Бадахшон",
+      "en": "Gorno-Badakhshan",
+      "slug": "gorno-badakhshan-tjk005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK005",
+      "level": 1,
+      "name": {
+        "local": "Мухтори Кӯҳистони Бадахшон",
+        "en": "Gorno-Badakhshan",
+        "slug": "gorno-badakhshan-tjk005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.581",
+    "lon": "71.914"
+  },
+  "metadata": {},
+  "source": {}
+}

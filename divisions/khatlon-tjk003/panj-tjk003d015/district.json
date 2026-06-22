@@ -1,0 +1,45 @@
+{
+  "id": "TJK003D015",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Панҷ",
+    "en": "Panj",
+    "slug": "panj-tjk003d015"
+  },
+  "code": {
+    "id": "TJK003D015",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK003",
+    "level": 1,
+    "name": {
+      "local": "Хатлон",
+      "en": "Khatlon",
+      "slug": "khatlon-tjk003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.261",
+    "lon": "69.21"
+  },
+  "metadata": {},
+  "source": {}
+}

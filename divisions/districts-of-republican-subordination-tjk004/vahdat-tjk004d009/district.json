@@ -1,0 +1,45 @@
+{
+  "id": "TJK004D009",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Вахдат",
+    "en": "Vahdat",
+    "slug": "vahdat-tjk004d009"
+  },
+  "code": {
+    "id": "TJK004D009",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK004",
+    "level": 1,
+    "name": {
+      "local": "Ноҳияҳои тобеи ҷумҳурӣ",
+      "en": "Districts of Republican Subordination",
+      "slug": "districts-of-republican-subordination-tjk004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK004",
+      "level": 1,
+      "name": {
+        "local": "Ноҳияҳои тобеи ҷумҳурӣ",
+        "en": "Districts of Republican Subordination",
+        "slug": "districts-of-republican-subordination-tjk004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.841",
+    "lon": "69.364"
+  },
+  "metadata": {},
+  "source": {}
+}

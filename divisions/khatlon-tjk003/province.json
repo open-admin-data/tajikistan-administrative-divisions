@@ -1,0 +1,33 @@
+{
+  "id": "TJK003",
+  "level": 1,
+  "level_name": {
+    "local": "Вилоят",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Хатлон",
+    "en": "Khatlon",
+    "slug": "khatlon-tjk003"
+  },
+  "code": {
+    "id": "TJK003",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 27
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.659",
+    "lon": "69.251"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/tj/provinces/khatlon-tjk003/",
+    "api": "https://openadmindata.org/api/tj/"
+  }
+}

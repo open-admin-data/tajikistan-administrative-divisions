@@ -1,0 +1,362 @@
+[
+  {
+    "id": "TJK005D003",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Дарвоз",
+      "en": "Darvoz",
+      "slug": "darvoz-tjk005d003"
+    },
+    "code": {
+      "id": "TJK005D003",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK005",
+      "level": 1,
+      "name": {
+        "local": "Мухтори Кӯҳистони Бадахшон",
+        "en": "Gorno-Badakhshan",
+        "slug": "gorno-badakhshan-tjk005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK005",
+        "level": 1,
+        "name": {
+          "local": "Мухтори Кӯҳистони Бадахшон",
+          "en": "Gorno-Badakhshan",
+          "slug": "gorno-badakhshan-tjk005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.405",
+      "lon": "70.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK005D002",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ишкошим",
+      "en": "Ishkashim",
+      "slug": "ishkashim-tjk005d002"
+    },
+    "code": {
+      "id": "TJK005D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK005",
+      "level": 1,
+      "name": {
+        "local": "Мухтори Кӯҳистони Бадахшон",
+        "en": "Gorno-Badakhshan",
+        "slug": "gorno-badakhshan-tjk005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK005",
+        "level": 1,
+        "name": {
+          "local": "Мухтори Кӯҳистони Бадахшон",
+          "en": "Gorno-Badakhshan",
+          "slug": "gorno-badakhshan-tjk005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.023",
+      "lon": "72.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK005D008",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Хоруғ",
+      "en": "Khorugh",
+      "slug": "khorugh-tjk005d008"
+    },
+    "code": {
+      "id": "TJK005D008",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK005",
+      "level": 1,
+      "name": {
+        "local": "Мухтори Кӯҳистони Бадахшон",
+        "en": "Gorno-Badakhshan",
+        "slug": "gorno-badakhshan-tjk005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK005",
+        "level": 1,
+        "name": {
+          "local": "Мухтори Кӯҳистони Бадахшон",
+          "en": "Gorno-Badakhshan",
+          "slug": "gorno-badakhshan-tjk005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.529",
+      "lon": "71.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK005D004",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Мурғоб",
+      "en": "Murghab",
+      "slug": "murghab-tjk005d004"
+    },
+    "code": {
+      "id": "TJK005D004",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK005",
+      "level": 1,
+      "name": {
+        "local": "Мухтори Кӯҳистони Бадахшон",
+        "en": "Gorno-Badakhshan",
+        "slug": "gorno-badakhshan-tjk005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK005",
+        "level": 1,
+        "name": {
+          "local": "Мухтори Кӯҳистони Бадахшон",
+          "en": "Gorno-Badakhshan",
+          "slug": "gorno-badakhshan-tjk005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.206",
+      "lon": "73.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK005D005",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Роштқалъа",
+      "en": "Roshtqala",
+      "slug": "roshtqala-tjk005d005"
+    },
+    "code": {
+      "id": "TJK005D005",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK005",
+      "level": 1,
+      "name": {
+        "local": "Мухтори Кӯҳистони Бадахшон",
+        "en": "Gorno-Badakhshan",
+        "slug": "gorno-badakhshan-tjk005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK005",
+        "level": 1,
+        "name": {
+          "local": "Мухтори Кӯҳистони Бадахшон",
+          "en": "Gorno-Badakhshan",
+          "slug": "gorno-badakhshan-tjk005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.236",
+      "lon": "72.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK005D006",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Рӯшон",
+      "en": "Rushan",
+      "slug": "rushan-tjk005d006"
+    },
+    "code": {
+      "id": "TJK005D006",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK005",
+      "level": 1,
+      "name": {
+        "local": "Мухтори Кӯҳистони Бадахшон",
+        "en": "Gorno-Badakhshan",
+        "slug": "gorno-badakhshan-tjk005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK005",
+        "level": 1,
+        "name": {
+          "local": "Мухтори Кӯҳистони Бадахшон",
+          "en": "Gorno-Badakhshan",
+          "slug": "gorno-badakhshan-tjk005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.052",
+      "lon": "71.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK005D007",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Шуғнон",
+      "en": "Shugnan",
+      "slug": "shugnan-tjk005d007"
+    },
+    "code": {
+      "id": "TJK005D007",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK005",
+      "level": 1,
+      "name": {
+        "local": "Мухтори Кӯҳистони Бадахшон",
+        "en": "Gorno-Badakhshan",
+        "slug": "gorno-badakhshan-tjk005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK005",
+        "level": 1,
+        "name": {
+          "local": "Мухтори Кӯҳистони Бадахшон",
+          "en": "Gorno-Badakhshan",
+          "slug": "gorno-badakhshan-tjk005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.581",
+      "lon": "71.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK005D001",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ванҷ",
+      "en": "Vanj",
+      "slug": "vanj-tjk005d001"
+    },
+    "code": {
+      "id": "TJK005D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK005",
+      "level": 1,
+      "name": {
+        "local": "Мухтори Кӯҳистони Бадахшон",
+        "en": "Gorno-Badakhshan",
+        "slug": "gorno-badakhshan-tjk005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK005",
+        "level": 1,
+        "name": {
+          "local": "Мухтори Кӯҳистони Бадахшон",
+          "en": "Gorno-Badakhshan",
+          "slug": "gorno-badakhshan-tjk005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.379",
+      "lon": "71.651"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

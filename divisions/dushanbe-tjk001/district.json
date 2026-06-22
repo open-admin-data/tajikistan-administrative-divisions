@@ -1,0 +1,182 @@
+[
+  {
+    "id": "TJK001D003",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Абӯалӣ Ибни Сино",
+      "en": "Avicenna",
+      "slug": "avicenna-tjk001d003"
+    },
+    "code": {
+      "id": "TJK001D003",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK001",
+      "level": 1,
+      "name": {
+        "local": "Душанбе",
+        "en": "Dushanbe",
+        "slug": "dushanbe-tjk001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK001",
+        "level": 1,
+        "name": {
+          "local": "Душанбе",
+          "en": "Dushanbe",
+          "slug": "dushanbe-tjk001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.545",
+      "lon": "68.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK001D004",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Фирдавсӣ",
+      "en": "Ferdowsi",
+      "slug": "ferdowsi-tjk001d004"
+    },
+    "code": {
+      "id": "TJK001D004",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK001",
+      "level": 1,
+      "name": {
+        "local": "Душанбе",
+        "en": "Dushanbe",
+        "slug": "dushanbe-tjk001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK001",
+        "level": 1,
+        "name": {
+          "local": "Душанбе",
+          "en": "Dushanbe",
+          "slug": "dushanbe-tjk001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.535",
+      "lon": "68.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK001D002",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Исмоили Сомонӣ",
+      "en": "Ismail Samani",
+      "slug": "ismail-samani-tjk001d002"
+    },
+    "code": {
+      "id": "TJK001D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK001",
+      "level": 1,
+      "name": {
+        "local": "Душанбе",
+        "en": "Dushanbe",
+        "slug": "dushanbe-tjk001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK001",
+        "level": 1,
+        "name": {
+          "local": "Душанбе",
+          "en": "Dushanbe",
+          "slug": "dushanbe-tjk001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.575",
+      "lon": "68.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TJK001D001",
+    "level": 2,
+    "level_name": {
+      "local": "Ноҳия",
+      "en": "District"
+    },
+    "name": {
+      "local": "Шоҳмансур",
+      "en": "Shah Mansur",
+      "slug": "shah-mansur-tjk001d001"
+    },
+    "code": {
+      "id": "TJK001D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "TJK001",
+      "level": 1,
+      "name": {
+        "local": "Душанбе",
+        "en": "Dushanbe",
+        "slug": "dushanbe-tjk001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TJK001",
+        "level": 1,
+        "name": {
+          "local": "Душанбе",
+          "en": "Dushanbe",
+          "slug": "dushanbe-tjk001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.56",
+      "lon": "68.774"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

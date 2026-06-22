@@ -1,0 +1,45 @@
+{
+  "id": "TJK004D010",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Роғун",
+    "en": "Roghun",
+    "slug": "roghun-tjk004d010"
+  },
+  "code": {
+    "id": "TJK004D010",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK004",
+    "level": 1,
+    "name": {
+      "local": "Ноҳияҳои тобеи ҷумҳурӣ",
+      "en": "Districts of Republican Subordination",
+      "slug": "districts-of-republican-subordination-tjk004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK004",
+      "level": 1,
+      "name": {
+        "local": "Ноҳияҳои тобеи ҷумҳурӣ",
+        "en": "Districts of Republican Subordination",
+        "slug": "districts-of-republican-subordination-tjk004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.717",
+    "lon": "69.711"
+  },
+  "metadata": {},
+  "source": {}
+}

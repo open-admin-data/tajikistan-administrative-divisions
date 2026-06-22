@@ -1,0 +1,45 @@
+{
+  "id": "TJK001D001",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Шоҳмансур",
+    "en": "Shah Mansur",
+    "slug": "shah-mansur-tjk001d001"
+  },
+  "code": {
+    "id": "TJK001D001",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK001",
+    "level": 1,
+    "name": {
+      "local": "Душанбе",
+      "en": "Dushanbe",
+      "slug": "dushanbe-tjk001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK001",
+      "level": 1,
+      "name": {
+        "local": "Душанбе",
+        "en": "Dushanbe",
+        "slug": "dushanbe-tjk001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.56",
+    "lon": "68.774"
+  },
+  "metadata": {},
+  "source": {}
+}

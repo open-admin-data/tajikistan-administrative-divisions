@@ -1,0 +1,45 @@
+{
+  "id": "TJK005D004",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Мурғоб",
+    "en": "Murghab",
+    "slug": "murghab-tjk005d004"
+  },
+  "code": {
+    "id": "TJK005D004",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK005",
+    "level": 1,
+    "name": {
+      "local": "Мухтори Кӯҳистони Бадахшон",
+      "en": "Gorno-Badakhshan",
+      "slug": "gorno-badakhshan-tjk005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK005",
+      "level": 1,
+      "name": {
+        "local": "Мухтори Кӯҳистони Бадахшон",
+        "en": "Gorno-Badakhshan",
+        "slug": "gorno-badakhshan-tjk005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.206",
+    "lon": "73.864"
+  },
+  "metadata": {},
+  "source": {}
+}

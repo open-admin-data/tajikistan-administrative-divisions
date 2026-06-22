@@ -1,0 +1,144 @@
+# Khatlon — Tajikistan Administrative Divisions
+
+> 27 districts
+> Code: TJK003
+> Coordinates: 37.659, 69.251
+> Last updated: 2026-06-22. License: CC-BY-4.0.
+
+## Districts
+
+### Балҷувон (Baljuvon)
+
+Code: TJK003D024, Coordinates: 38.494, 69.785
+
+
+### Ч. Балхи (Balkhi)
+
+Code: TJK003D007, Coordinates: 37.557, 68.781
+
+
+### Бохтар (Bokhtar)
+
+Code: TJK003D008, Coordinates: 37.76, 68.734
+
+
+### Чайхун (Chaikhun)
+
+Code: TJK003D011, Coordinates: 37.299, 68.72
+
+
+### Данғара (Dangara)
+
+Code: TJK003D003, Coordinates: 38.015, 69.225
+
+
+### Дусти (Dusti)
+
+Code: TJK003D004, Coordinates: 37.382, 68.474
+
+
+### Фархор (Farkhor)
+
+Code: TJK003D014, Coordinates: 37.465, 69.368
+
+
+### М.С.А.Ҳамадонӣ (Hamadoni)
+
+Code: TJK003D013, Coordinates: 37.643, 69.868
+
+
+### А.Ҷомӣ (Jami A.)
+
+Code: TJK003D009, Coordinates: 38.04, 68.86
+
+
+### Қубодиён (Kabodiyon)
+
+Code: TJK003D006, Coordinates: 37.385, 68.24
+
+
+### Ховалинг (Khovaling)
+
+Code: TJK003D018, Coordinates: 38.332, 70.008
+
+
+### Хуросон (Khuroson)
+
+Code: TJK003D005, Coordinates: 38.072, 68.68
+
+
+### Кӯлоб (Kulob)
+
+Code: TJK003D010, Coordinates: 37.986, 69.821
+
+
+### Кӯлоб (Kulob)
+
+Code: TJK003D027, Coordinates: 37.986, 69.821
+
+
+### Мӯъминобод (Muminabad)
+
+Code: TJK003D012, Coordinates: 38.169, 70.127
+
+
+### Н. Хусрав (N. Khusraw)
+
+Code: TJK003D023, Coordinates: 37.215, 67.939
+
+
+### Норак (Norak)
+
+Code: TJK003D022, Coordinates: 38.343, 69.234
+
+
+### Панҷ (Panj)
+
+Code: TJK003D015, Coordinates: 37.261, 69.21
+
+
+### Қӯрғонтеппа (Qurghonteppa)
+
+Code: TJK003D025, Coordinates: 37.76, 68.734
+
+
+### Сарбанд (Sarband)
+
+Code: TJK003D016, Coordinates: 37.88, 69.032
+
+
+### Сарбанд (Sarband)
+
+Code: TJK003D026, Coordinates: 37.88, 69.032
+
+
+### Шаҳртуз (Shaartuz)
+
+Code: TJK003D019, Coordinates: 37.474, 68.098
+
+
+### Шамсиддини Шохин (Shohin)
+
+Code: TJK003D020, Coordinates: 37.945, 69.624
+
+
+### Темурмалик (Temurmalik)
+
+Code: TJK003D017, Coordinates: 38.123, 69.509
+
+
+### Вахш (Vakhsh)
+
+Code: TJK003D001, Coordinates: 37.716, 68.915
+
+
+### Восеъ (Vose)
+
+Code: TJK003D002, Coordinates: 37.945, 69.624
+
+
+### Ёвон (Yavon)
+
+Code: TJK003D021, Coordinates: 38.181, 68.944
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "TJK002D021",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Истаравшан",
+    "en": "Istaravshan",
+    "slug": "istaravshan-tjk002d021"
+  },
+  "code": {
+    "id": "TJK002D021",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK002",
+    "level": 1,
+    "name": {
+      "local": "Суғд",
+      "en": "Sughd",
+      "slug": "sughd-tjk002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK002",
+      "level": 1,
+      "name": {
+        "local": "Суғд",
+        "en": "Sughd",
+        "slug": "sughd-tjk002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.988",
+    "lon": "69.008"
+  },
+  "metadata": {},
+  "source": {}
+}

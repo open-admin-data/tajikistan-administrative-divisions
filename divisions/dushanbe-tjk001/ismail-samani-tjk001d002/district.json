@@ -1,0 +1,45 @@
+{
+  "id": "TJK001D002",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Исмоили Сомонӣ",
+    "en": "Ismail Samani",
+    "slug": "ismail-samani-tjk001d002"
+  },
+  "code": {
+    "id": "TJK001D002",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK001",
+    "level": 1,
+    "name": {
+      "local": "Душанбе",
+      "en": "Dushanbe",
+      "slug": "dushanbe-tjk001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK001",
+      "level": 1,
+      "name": {
+        "local": "Душанбе",
+        "en": "Dushanbe",
+        "slug": "dushanbe-tjk001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.575",
+    "lon": "68.8"
+  },
+  "metadata": {},
+  "source": {}
+}

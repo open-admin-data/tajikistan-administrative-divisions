@@ -1,0 +1,84 @@
+# Districts of Republican Subordination — Tajikistan Administrative Divisions
+
+> 15 districts
+> Code: TJK004
+> Coordinates: 38.789, 69.884
+> Last updated: 2026-06-22. License: CC-BY-4.0.
+
+## Districts
+
+### Файзобод (Faizabad)
+
+Code: TJK004D014, Coordinates: 38.499, 69.363
+
+
+### Ҳисор (Hissar)
+
+Code: TJK004D005, Coordinates: 38.658, 68.577
+
+
+### Ляхш (Lyakhsh)
+
+Code: TJK004D006, Coordinates: 39.295, 71.616
+
+
+### Нуробод (Nurabad)
+
+Code: TJK004D007, Coordinates: 38.844, 70.108
+
+
+### Рашт (Rasht)
+
+Code: TJK004D004, Coordinates: 39.237, 70.436
+
+
+### Роғун (Roghun)
+
+Code: TJK004D010, Coordinates: 38.717, 69.711
+
+
+### Рӯдакӣ (Rudaki)
+
+Code: TJK004D008, Coordinates: 38.244, 68.581
+
+
+### Сангвор (Sangvor)
+
+Code: TJK004D011, Coordinates: 38.742, 71.132
+
+
+### Шаҳринав (Shakhrinav)
+
+Code: TJK004D015, Coordinates: 38.636, 68.397
+
+
+### Тоҷикобод (Tajikabad)
+
+Code: TJK004D012, Coordinates: 39.063, 70.942
+
+
+### Турсунзода (Tursunzade)
+
+Code: TJK004D002, Coordinates: 38.558, 68.188
+
+
+### Турсунзода (Tursunzade)
+
+Code: TJK004D013, Coordinates: 38.558, 68.188
+
+
+### Вахдат (Vahdat)
+
+Code: TJK004D001, Coordinates: 38.841, 69.364
+
+
+### Вахдат (Vahdat)
+
+Code: TJK004D009, Coordinates: 38.841, 69.364
+
+
+### Варзоб (Varzob)
+
+Code: TJK004D003, Coordinates: 38.835, 68.845
+
+

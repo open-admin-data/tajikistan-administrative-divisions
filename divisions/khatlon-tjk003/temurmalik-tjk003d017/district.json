@@ -1,0 +1,45 @@
+{
+  "id": "TJK003D017",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Темурмалик",
+    "en": "Temurmalik",
+    "slug": "temurmalik-tjk003d017"
+  },
+  "code": {
+    "id": "TJK003D017",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK003",
+    "level": 1,
+    "name": {
+      "local": "Хатлон",
+      "en": "Khatlon",
+      "slug": "khatlon-tjk003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.123",
+    "lon": "69.509"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "TJK003D020",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Шамсиддини Шохин",
+    "en": "Shohin",
+    "slug": "shohin-tjk003d020"
+  },
+  "code": {
+    "id": "TJK003D020",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK003",
+    "level": 1,
+    "name": {
+      "local": "Хатлон",
+      "en": "Khatlon",
+      "slug": "khatlon-tjk003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.945",
+    "lon": "69.624"
+  },
+  "metadata": {},
+  "source": {}
+}

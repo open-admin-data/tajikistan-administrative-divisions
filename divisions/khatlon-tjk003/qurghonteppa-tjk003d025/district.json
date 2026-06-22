@@ -1,0 +1,45 @@
+{
+  "id": "TJK003D025",
+  "level": 2,
+  "level_name": {
+    "local": "Ноҳия",
+    "en": "District"
+  },
+  "name": {
+    "local": "Қӯрғонтеппа",
+    "en": "Qurghonteppa",
+    "slug": "qurghonteppa-tjk003d025"
+  },
+  "code": {
+    "id": "TJK003D025",
+    "iso": null
+  },
+  "parent": {
+    "id": "TJK003",
+    "level": 1,
+    "name": {
+      "local": "Хатлон",
+      "en": "Khatlon",
+      "slug": "khatlon-tjk003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TJK003",
+      "level": 1,
+      "name": {
+        "local": "Хатлон",
+        "en": "Khatlon",
+        "slug": "khatlon-tjk003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.76",
+    "lon": "68.734"
+  },
+  "metadata": {},
+  "source": {}
+}
