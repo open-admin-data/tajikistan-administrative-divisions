@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-06-22 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/tj](https://openadmindata.org/tj/) |
 | API | [openadmindata.org/api/tj](https://openadmindata.org/api/tj/) |
+| National Anthem | [🎵 Listen & Download Tajikistan National Anthem MP3](https://onlygames.me/national-anthems/tj/) |
 
 ## Browse by Province
 
