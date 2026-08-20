@@ -3,7 +3,7 @@
 > 22 districts
 > Code: TJK002
 > Coordinates: 39.936, 69.413
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Districts
 
